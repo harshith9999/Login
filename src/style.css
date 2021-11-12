@@ -1,0 +1,78 @@
+h1,
+p {
+  font-family: Lato;
+  margin: 4px;
+}
+a {
+  margin-top: -12px;
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+}
+.login {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  width: 170px;
+  height: 30px;
+  margin-top: 25px;
+  background-color: red;
+}
+.btn2 {
+  width: 170px;
+  height: 30px;
+  margin-top: 25px;
+  background-color: white;
+  border: 1px solid red;
+}
+
+.inpts {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.inpt {
+  height: 40px;
+  margin-bottom: 20px;
+  width: 180px;
+  background-color: rgb(255, 255, 200);
+}
+.icons {
+  position: relative;
+}
+.icon {
+  position: absolute;
+  font-size: 40px;
+  right: 0px;
+  top: 0px;
+  color: white;
+  border-radius: 0px 3px 3px 0px;
+  background-color: red;
+}
+.icon2 {
+  position: absolute;
+  font-size: 40px;
+  right: 0px;
+  top: 0px;
+  color: white;
+  border-radius: 0px 3px 3px 0px;
+  background-color: red;
+}
+.link {
+  margin: 1px;
+  position: absolute; 
+  right: 20px;
+}
+.blak{
+  color:black;
+}
+.whit{
+  background-color:white;
+}
